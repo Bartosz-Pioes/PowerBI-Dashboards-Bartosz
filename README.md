@@ -7,7 +7,7 @@ Since the original `.pbix` files exceed GitHub’s 25 MB limit, I am sharing scr
 
 ## Screenshots
 
-![Dashboard 1](./screenshots/dashboard1.png)  
+![Dashboard 1](Dashboard 1.0 2025-07-22 112602.png)  
 ![Dashboard 2](./screenshots/dashboard2.png)
 
 ---
