@@ -1,27 +1,26 @@
-# Power BI Dashboards by Bartosz Józefowicz
+# My Power BI Dashboard Portfolio 📊
 
-These dashboards were created by me based on learning's course.  
-These are my own efforts showcasing my understanding and implementation of the material.  
-Since the original `.pbix` files exceed GitHub’s 25 MB limit, I am sharing screenshots below along with links to the live reports hosted on Power BI Service.
+Welcome to my Power BI dashboards collection. This repository showcases my learning journey from foundational data reports to advanced interactive dashboards, turning raw data into actionable business insights.
+
+## Featured Dashboards
+
+### Data Jobs Dashboard (V1 - Comprehensive Exploration)
+- Focus on ETL, basic data modeling, and core visualizations.
+- Skills: Power Query transformations, implicit measures, KPI cards, interactive slicers.
+- ![Dashboard 1.0](./dashboard1_0.png)  
+- ![Dashboard 1.1](./dashboard1.1.png)
+
+### Data Jobs Dashboard 2.0 (V2 - Single-Page UX & Optimization)
+- Advanced dashboard design emphasizing user experience and report performance.
+- Skills: Explicit DAX, star schema modeling, dynamic visuals, parameter-driven what-if analysis.
+- ![Dashboard 2.0](./dashboard2.png)
+
+## About This Portfolio
+
+Due to corporate restrictions, live Power BI reports cannot be shared publicly. Instead, this repository includes screenshots and detailed READMEs for each dashboard. For inquiries or private demonstrations, feel free to contact me.
+
+Thanks to Barousse for the excellent course that inspired these projects.
 
 ---
 
-## Screenshots
 
-### Dashboard 1
-![Dashboard 1.0](./dashboard1_0.png)  
-![Dashboard 1.1](./dashboard1.1.png)
-
-### Dashboard 2
-![Dashboard 2.0](./dashboard2.png)
-
----
-
-## Live Reports
-
-- [Dashboard 1 - Power BI Service](#)  
-- [Dashboard 2 - Power BI Service](#)
-
----
-
-Thanks to Luke Barousse for the great course!
